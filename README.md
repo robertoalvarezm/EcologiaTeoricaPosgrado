@@ -17,7 +17,7 @@ https://doi.org/10.7554/eLife.55650
 - Ho, P. Y., Good, B. H., & Huang, K. C. (2022). Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. Elife, 11, e75168.
 - Sadhu, S., & Thakur, S. C. (2022). Analysis of bistable behavior and early warning signals of extinction in a class of predator-prey models. arXiv preprint arXiv:2210.04097.
 - Calleja-Solanas, V., Khalil, N., Gómez-Gardeñes, J., Hernández-García, E., & Meloni, S. (2022). Structured interactions as a stabilizing mechanism for competitive ecological communities. Physical Review E, 106(6), 064307.
-- https://youtu.be/hginU4o9vmg
+- [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg)
 
 
 #### Rank-abundance
