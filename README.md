@@ -26,8 +26,15 @@ https://doi.org/10.7554/eLife.55650
 - Zhang, L., Chen, L., Yu, X., Duvallet, C., Isazadeh, S., Dai, C., ... & Ling, F. (2020). Microbial Species Abundance Distributions Guide Human Population Size Estimation from Sewage Microbiomes. bioRxiv, 2020-12.
 - Ho, P. Y., Good, B. H., & Huang, K. C. (2022). Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. Elife, 11, e75168.
 
-### Criticality and Phase-Transitions
+#### Criticality and Phase-Transitions
 
 - Proverbio, D., Montanari, A. N., Skupin, A., & Gonçalves, J. (2022). Buffering variability in cell regulation motifs close to criticality. Physical Review E, 106(3), L032402.
 - Arnold, J., & Schäfer, F. (2022). Replacing neural networks by optimal analytical predictors for the detection of phase transitions. Physical Review X, 12(3), 031044.
 - 
+
+#### Co-existence
+
+- Jia, X., Dini-Andreote, F. & Salles, J.F. Unravelling the interplay of ecological processes structuring the bacterial rare biosphere. ISME COMMUN. 2, 96 (2022). https://doi.org/10.1038/s43705-022-00177-6
+- Hanusch, M., He, X., Ruiz-Hernández, V. et al. Succession comprises a sequence of threshold-induced community assembly processes towards multidiversity. Commun Biol 5, 424 (2022). https://doi.org/10.1038/s42003-022-03372-2
+- 
+
