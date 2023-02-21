@@ -18,5 +18,5 @@ https://doi.org/10.7554/eLife.55650
 
 #### Rank-abundance
 
--Avolio, M. L., Pierre, K. J. L., Houseman, G. R., Koerner, S. E., Grman, E., Isbell, F., ... & Wilcox, K. R. (2015). A framework for quantifying the magnitude and variability of community responses to global change drivers. Ecosphere, 6(12), 1-14.
+- Avolio, M. L., Pierre, K. J. L., Houseman, G. R., Koerner, S. E., Grman, E., Isbell, F., ... & Wilcox, K. R. (2015). A framework for quantifying the magnitude and variability of community responses to global change drivers. Ecosphere, 6(12), 1-14.
 - Erez, A., Lopez, J. G., Meir, Y., & Wingreen, N. S. (2021). Enzyme regulation and mutation in a model serial-dilution ecosystem. Physical Review E, 104(4), 044412.
