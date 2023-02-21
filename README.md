@@ -17,7 +17,7 @@ https://doi.org/10.7554/eLife.55650
 - Ho, P. Y., Good, B. H., & Huang, K. C. (2022). Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. Elife, 11, e75168.
 - Sadhu, S., & Thakur, S. C. (2022). Analysis of bistable behavior and early warning signals of extinction in a class of predator-prey models. arXiv preprint arXiv:2210.04097.
 - Calleja-Solanas, V., Khalil, N., Gómez-Gardeñes, J., Hernández-García, E., & Meloni, S. (2022). Structured interactions as a stabilizing mechanism for competitive ecological communities. Physical Review E, 106(6), 064307.
-- 
+- https://youtu.be/hginU4o9vmg
 
 
 #### Rank-abundance
@@ -36,6 +36,10 @@ https://doi.org/10.7554/eLife.55650
 - Hu, J., Amor, D. R., Barbier, M., Bunin, G., & Gore, J. (2022). Emergent phases of ecological diversity and dynamics mapped in microcosms. Science, 378(6615), 85-89.
 - Matthias Huelsmann, Martin Ackermann, Community instability in the microbial world, Science, 378, 6615, (29-30), (2022).
 /doi/10.1126/science.ade2516
+- Nazarimehr, F., Jafari, S., Perc, M., & Sprott, J. C. (2020). Critical slowing down indicators. Europhysics Letters, 132(1), 18001.
+- Dakos, V., Van Nes, E. H., d'Odorico, P., & Scheffer, M. (2012). Robustness of variance and autocorrelation as indicators of critical slowing down. Ecology, 93(2), 264-271.
+- 
+
 
 #### Co-existence
 
