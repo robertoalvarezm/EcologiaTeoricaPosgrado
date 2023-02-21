@@ -64,6 +64,10 @@ Disentangling Interactions in the Microbiome: A Network Perspective,Trends in Mi
 - Mehdi Layeghifard, David M. Hwang, David S. Guttman,Disentangling Interactions in the Microbiome: A Network Perspective,Trends in Microbiology,Volume 25,Issue 3,2017,Pages 217-228,ISSN 0966-842X,https://doi.org/10.1016/j.tim.2016.11.008.
 - Wen, T., Xie, P., Yang, S., Niu, G., Liu, X., Ding, Z., ... & Yuan, J. (2022). ggClusterNet: An R package for microbiome network analysis and modularity‐based multiple network layouts. iMeta, 1(3), e32.
 
+#### Community Assembly
+
+-  Assembly of gut-derived bacterial communities follows early-bird resource utilization dynamics
+Aranda-Diaz, A., Willis L., Nguyen T., Ho, P-Y., Vila, J.C.C., Thomsen T., Chavez, T., Yan, J., Yu, F. B., Neff, N., Sanchez A, Estrela S.# Huang K.C.# BioRxiv (2023) 10.1101/2023.01.13.523996v1
 
 #### Disbiosis
 
