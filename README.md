@@ -17,7 +17,7 @@ https://doi.org/10.7554/eLife.55650
 - Ho, P. Y., Good, B. H., & Huang, K. C. (2022). Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. Elife, 11, e75168.
 - Sadhu, S., & Thakur, S. C. (2022). Analysis of bistable behavior and early warning signals of extinction in a class of predator-prey models. arXiv preprint arXiv:2210.04097.
 - Calleja-Solanas, V., Khalil, N., Gómez-Gardeñes, J., Hernández-García, E., & Meloni, S. (2022). Structured interactions as a stabilizing mechanism for competitive ecological communities. Physical Review E, 106(6), 064307.
-- [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg)
+- [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg)Román Zapién Campos
 
 
 #### Rank-abundance
@@ -47,6 +47,12 @@ https://doi.org/10.7554/eLife.55650
 - Hanusch, M., He, X., Ruiz-Hernández, V. et al. Succession comprises a sequence of threshold-induced community assembly processes towards multidiversity. Commun Biol 5, 424 (2022). https://doi.org/10.1038/s42003-022-03372-2
 - 
 
+
+#### Networks
+
+- Monica Steffi Matchado, Michael Lauber, Sandra Reitmeier, Tim Kacprowski, Jan Baumbach, Dirk Haller, Markus List,
+Network analysis methods for studying microbial communities: A mini review,
+Computational and Structural Biotechnology Journal,Volume 19, 2021,Pages 2687-2698,ISSN 2001-0370, https://doi.org/10.1016/j.csbj.2021.05.001.
 
 #### Other
 
