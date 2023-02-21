@@ -53,6 +53,19 @@ https://doi.org/10.7554/eLife.55650
 - Monica Steffi Matchado, Michael Lauber, Sandra Reitmeier, Tim Kacprowski, Jan Baumbach, Dirk Haller, Markus List,
 Network analysis methods for studying microbial communities: A mini review,
 Computational and Structural Biotechnology Journal,Volume 19, 2021,Pages 2687-2698,ISSN 2001-0370, https://doi.org/10.1016/j.csbj.2021.05.001.
+- Raulo, A., Allen, B.E., Troitsky, T. et al. Social networks strongly predict the gut microbiota of wild mice. ISME J 15, 2601–2613 (2021). https://doi.org/10.1038/s41396-021-00949-3
+- Zhaoqian Liu, Anjun Ma, Ewy Mathé, Marlena Merling, Qin Ma, Bingqiang Liu, Network analyses in microbiome based on high-throughput multi-omics data, Briefings in Bioinformatics, Volume 22, Issue 2, March 2021, Pages 1639–1655, https://doi.org/10.1093/bib/bbaa005
+- Cao, X., Dong, A., Kang, G., Wang, X., Duan, L., Hou, H., ... & Wu, R. (2022). Modeling spatial interaction networks of the gut microbiota. Gut microbes, 14(1), 2106103.
+- Lugo-Martinez, J., Ruiz-Perez, D., Narasimhan, G., & Bar-Joseph, Z. (2019). Dynamic interaction network inference from longitudinal microbiome data. Microbiome, 7, 1-14.
+- Mainali K, Bewick S, Vecchio-Pagan B, Karig D, Fagan WF (2019) Detecting interaction networks in the human microbiome with conditional Granger causality. PLOS Computational Biology 15(5): e1007037. https://doi.org/10.1371/journal.pcbi.1007037
+- Lim, R., Cabatbat, J. J. T., Martin, T. L., Kim, H., Kim, S., Sung, J., ... & Kim, P. J. (2020). Large-scale metabolic interaction network of the mouse and human gut microbiota. Scientific Data, 7(1), 204.
+- Mehdi Layeghifard, David M. Hwang, David S. Guttman,
+Disentangling Interactions in the Microbiome: A Network Perspective,Trends in Microbiology,Volume 25, Issue 3,2017,Pages 217-228,ISSN 0966-842X,https://doi.org/10.1016/j.tim.2016.11.008.
+- Mehdi Layeghifard, David M. Hwang, David S. Guttman,Disentangling Interactions in the Microbiome: A Network Perspective,Trends in Microbiology,Volume 25,Issue 3,2017,Pages 217-228,ISSN 0966-842X,https://doi.org/10.1016/j.tim.2016.11.008.
+- Wen, T., Xie, P., Yang, S., Niu, G., Liu, X., Ding, Z., ... & Yuan, J. (2022). ggClusterNet: An R package for microbiome network analysis and modularity‐based multiple network layouts. iMeta, 1(3), e32.
+
+
+#### Disbiosis
 
 #### Other
 
