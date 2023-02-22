@@ -105,12 +105,17 @@ Aranda-Diaz, A., Willis L., Nguyen T., Ho, P-Y., Vila, J.C.C., Thomsen T., Chave
 
 #### Dysbiosis
 
+- Brüssow, H. (2020). Problems with the concept of gut microbiota dysbiosis. Microbial biotechnology, 13(2), 423-434. 
+- Hooks, K. B., & O’Malley, M. A. (2017). Dysbiosis and its discontents. MBio, 8(5), e01492-17.
+- Olesen, S., Alm, E. Dysbiosis is not an answer. Nat Microbiol 1, 16228 (2016). https://doi.org/10.1038/nmicrobiol.2016.228
+- Arnault, G., Mony, C., & Vandenkoornhuyse, P. (2022). Plant microbiota dysbiosis and the Anna Karenina Principle. Trends in Plant Science.
 - Magne, F.; Gotteland, M.; Gauthier, L.; Zazueta, A.; Pesoa, S.; Navarrete, P.; Balamurugan, R. The Firmicutes/Bacteroidetes Ratio: A Relevant Marker of Gut Dysbiosis in Obese Patients? Nutrients 2020, 12, 1474. https://doi.org/10.3390/nu12051474
 - Mariat, D., Firmesse, O., Levenez, F. et al. The Firmicutes/Bacteroidetes ratio of the human microbiota changes with age. BMC Microbiol 9, 123 (2009). https://doi.org/10.1186/1471-2180-9-123
 - Gina C. Johnson, Samuel Degregori, Paul H. Barber, Daniel T. Blumstein Firmicutes and Bacteroidetes explain mass gain variation in an obligate hibernator bioRxiv 2021.09.24.461421; doi: https://doi.org/10.1101/2021.09.24.461421
 - Ahmed, E. A., Ahmed, S. M., Zakaria, N. H., Baddour, N. M., & Header, D. A. (2022). Study of the gut microbiome in Egyptian patients with active ulcerative colitis. Revista de Gastroenterología de México (English Edition).
 - [Personal science: the guide to Microbiome](https://psm.personalscience.com/index.html#intro)
 - Houtman, T. A., Eckermann, H. A., Smidt, H., & de Weerth, C. (2022). Gut microbiota and BMI throughout childhood: the role of firmicutes, bacteroidetes, and short-chain fatty acid producers. Scientific Reports, 12(1), 3140.
+- [DysbiosisR: a pacakge for estimating dysbiosis](https://microsud.github.io/dysbiosisR/articles/Introduction.html)
 - [Canine microbiota dysbiosis index](https://vetmed.tamu.edu/gilab/service/assays/canine-microbiota-dysbiosis-index/)
 
 
