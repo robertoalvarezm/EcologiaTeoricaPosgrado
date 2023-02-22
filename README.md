@@ -33,6 +33,7 @@ eLife (2023) https://www.biorxiv.org/content/10.1101/2022.02.13.480281v1.full.pd
 - Georgios Marinos, Inga K. Hamerich, Reena Debray, Nancy Obeng, Carola Petersen, Jan Taubenheim, Johannes Zimmermann, Dana Blackburn, Buck S. Samuel, Katja Dierking, Andre Franke, Matthias Laudes, Silvio Waschina, Hinrich Schulenburg, Christoph Kaleta
  Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics
 bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
+- Rossetto Marcelino, V., Welsh, C., Diener, C., Gulliver, E. L., Rutten, E. L., Young, R. B., ... & Forster, S. C. (2023). Disease-specific loss of microbial cross-feeding interactions in the human gut. bioRxiv, 2023-02.
 - [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg) Román Zapién Campos
 
 
@@ -118,6 +119,7 @@ Aranda-Diaz, A., Willis L., Nguyen T., Ho, P-Y., Vila, J.C.C., Thomsen T., Chave
 - Ahmed, E. A., Ahmed, S. M., Zakaria, N. H., Baddour, N. M., & Header, D. A. (2022). Study of the gut microbiome in Egyptian patients with active ulcerative colitis. Revista de Gastroenterología de México (English Edition).
 - [Personal science: the guide to Microbiome](https://psm.personalscience.com/index.html#intro)
 - Houtman, T. A., Eckermann, H. A., Smidt, H., & de Weerth, C. (2022). Gut microbiota and BMI throughout childhood: the role of firmicutes, bacteroidetes, and short-chain fatty acid producers. Scientific Reports, 12(1), 3140.
+- Rossetto Marcelino, V., Welsh, C., Diener, C., Gulliver, E. L., Rutten, E. L., Young, R. B., ... & Forster, S. C. (2023). Disease-specific loss of microbial cross-feeding interactions in the human gut. bioRxiv, 2023-02.
 - [DysbiosisR: a pacakge for estimating dysbiosis](https://microsud.github.io/dysbiosisR/articles/Introduction.html)
 - [Canine microbiota dysbiosis index](https://vetmed.tamu.edu/gilab/service/assays/canine-microbiota-dysbiosis-index/)
 
