@@ -30,6 +30,9 @@ eLife (2023) https://www.biorxiv.org/content/10.1101/2022.02.13.480281v1.full.pd
 - MK AlShawaqfeh, B Wajid, Y Minamoto, M Markel, JA Lidbury, JM Steiner, E Serpedin, JS Suchodolski, A dysbiosis index to assess microbial changes in fecal samples of dogs with chronic inflammatory enteropathy, FEMS Microbiology Ecology, Volume 93, Issue 11, November 2017, fix136, https://doi.org/10.1093/femsec/fix136
 - Halfvarson, J., Brislawn, C., Lamendella, R. et al. Dynamics of the human gut microbiome in inflammatory bowel disease. Nat Microbiol 2, 17004 (2017). https://doi.org/10.1038/nmicrobiol.2017.4
 - Emergent simplicity in microbial community assembly. Goldford, J., Lu, N.*, Bajic, D., Estrela, S., Sanchez-Gorostiaga, A., Tikhonov, M., Segre, D., Mehta, P., Sanchez, A. Science (2018) 361:469-74
+- Georgios Marinos, Inga K. Hamerich, Reena Debray, Nancy Obeng, Carola Petersen, Jan Taubenheim, Johannes Zimmermann, Dana Blackburn, Buck S. Samuel, Katja Dierking, Andre Franke, Matthias Laudes, Silvio Waschina, Hinrich Schulenburg, Christoph Kaleta
+ Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics
+bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 - [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg) Román Zapién Campos
 
 
