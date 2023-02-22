@@ -103,7 +103,7 @@ Disentangling Interactions in the Microbiome: A Network Perspective,Trends in Mi
 Aranda-Diaz, A., Willis L., Nguyen T., Ho, P-Y., Vila, J.C.C., Thomsen T., Chavez, T., Yan, J., Yu, F. B., Neff, N., Sanchez A, Estrela S.# Huang K.C.# BioRxiv (2023) https://www.biorxiv.org/content/10.1101/2023.01.13.523996v1
 - Predictability of the community-function landscape in wine yeast ecosystems, Ruiz, J., De Celis, M., Diaz-Colunga, J., Vila J.C.C., Benitez-Dominguez, B., Vicente J., Santos, A., Sanchez A., & Belda, I. BioRxiv (2022) https://doi.org/10.1101/2022.12.15.520418
 -  Environmental modulation of global epistasis is governed by effective genetic interactions Diaz-Colunga, J.#, Sanchez A., & Ogbunugafor, C.B., BioRxiv (2022) https://www.biorxiv.org/content/10.1101/2022.11.02.514859v1.full.pdf
--  
+-  Sanchez, A., Bajic, D., Diaz-Colunga, J., Skwara, A., Vila, J. C., & Kuehn, S. (2023). The community-function landscape of microbial consortia. Cell Systems, 14(2), 122-134.
 
 
 
