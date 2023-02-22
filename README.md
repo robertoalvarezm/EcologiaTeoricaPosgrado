@@ -17,7 +17,10 @@ https://doi.org/10.7554/eLife.55650
 - Ho, P. Y., Good, B. H., & Huang, K. C. (2022). Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. Elife, 11, e75168.
 - Sadhu, S., & Thakur, S. C. (2022). Analysis of bistable behavior and early warning signals of extinction in a class of predator-prey models. arXiv preprint arXiv:2210.04097.
 - Calleja-Solanas, V., Khalil, N., Gómez-Gardeñes, J., Hernández-García, E., & Meloni, S. (2022). Structured interactions as a stabilizing mechanism for competitive ecological communities. Physical Review E, 106(6), 064307.
-- [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg)Román Zapién Campos
+- Emergent ecosystem functions follow simple quantitative rules Diaz-Colunga, J.*, Skwara, A*., Vila, J.C.C., Bajic, D. & Sanchez A. BioRxiv (2022) https://www.biorxiv.org/content/10.1101/2022.06.21.496987v1.full.pdf
+- Emergent coexistence in multispecies microbial communities Chang, C-Y., Bajic, D., Vila, J.C.C., Estrela, S. & Sanchez A. BioRxiv (2022) https://www.biorxiv.org/content/10.1101/2022.05.20.492860v2.full.pdf
+
+- [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg) Román Zapién Campos
 
 
 #### Rank-abundance
@@ -45,7 +48,7 @@ https://doi.org/10.7554/eLife.55650
 
 - Jia, X., Dini-Andreote, F. & Salles, J.F. Unravelling the interplay of ecological processes structuring the bacterial rare biosphere. ISME COMMUN. 2, 96 (2022). https://doi.org/10.1038/s43705-022-00177-6
 - Hanusch, M., He, X., Ruiz-Hernández, V. et al. Succession comprises a sequence of threshold-induced community assembly processes towards multidiversity. Commun Biol 5, 424 (2022). https://doi.org/10.1038/s42003-022-03372-2
-- 
+- Emergent coexistence in multispecies microbial communities Chang, C-Y., Bajic, D., Vila, J.C.C., Estrela, S. & Sanchez A. BioRxiv (2022) https://www.biorxiv.org/content/10.1101/2022.05.20.492860v2.full.pdf
 
 
 #### Networks
@@ -67,8 +70,11 @@ Disentangling Interactions in the Microbiome: A Network Perspective,Trends in Mi
 #### Community Assembly
 
 -  Assembly of gut-derived bacterial communities follows early-bird resource utilization dynamics
-Aranda-Diaz, A., Willis L., Nguyen T., Ho, P-Y., Vila, J.C.C., Thomsen T., Chavez, T., Yan, J., Yu, F. B., Neff, N., Sanchez A, Estrela S.# Huang K.C.# BioRxiv (2023) https://doi.org/10.1101/2023.01.13.523996v1
+Aranda-Diaz, A., Willis L., Nguyen T., Ho, P-Y., Vila, J.C.C., Thomsen T., Chavez, T., Yan, J., Yu, F. B., Neff, N., Sanchez A, Estrela S.# Huang K.C.# BioRxiv (2023) https://www.biorxiv.org/content/10.1101/2023.01.13.523996v1
 - Predictability of the community-function landscape in wine yeast ecosystems, Ruiz, J., De Celis, M., Diaz-Colunga, J., Vila J.C.C., Benitez-Dominguez, B., Vicente J., Santos, A., Sanchez A., & Belda, I. BioRxiv (2022) https://doi.org/10.1101/2022.12.15.520418
+-  Environmental modulation of global epistasis is governed by effective genetic interactions Diaz-Colunga, J.#, Sanchez A., & Ogbunugafor, C.B., BioRxiv (2022) https://www.biorxiv.org/content/10.1101/2022.11.02.514859v1.full.pdf
+-  
+
 
 
 #### Disbiosis
