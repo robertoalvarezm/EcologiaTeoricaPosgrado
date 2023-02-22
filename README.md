@@ -64,6 +64,9 @@ eLife (2023) https://www.biorxiv.org/content/10.1101/2022.02.13.480281v1.full.pd
 - Hastings, A., & Wysham, D. B. (2010). Regime shifts in ecological systems can occur with no warning. Ecology letters, 13(4), 464-472.
 - Kéfi, S., Rietkerk, M., Alados, C. L., Pueyo, Y., Papanastasis, V. P., ElAich, A., & De Ruiter, P. C. (2007). Spatial vegetation patterns and imminent desertification in Mediterranean arid ecosystems. Nature, 449(7159), 213-217.
 - Julio Alberto Alegre Stelzer, Jorrit Padric Mesman, Rita Adrian, Bastiaan Willem Ibelings,Early warning signals of regime shifts for aquatic systems: Can experiments help to bridge the gap between theory and real-world application?,Ecological Complexity,Volume 47,2021,100944,ISSN 1476-945X,https://doi.org/10.1016/j.ecocom.2021.100944 (https://www.sciencedirect.com/science/article/pii/S1476945X21000374)
+- Sergey Bredikhin, Approaches to disruptive change: The contribution of complexity science to futures studies, Futures,Volume 124,2020,102624,ISSN 0016-3287,https://doi.org/10.1016/j.futures.2020.102624(https://www.sciencedirect.com/science/article/pii/S0016328720301142)
+- Lever, J. J., van de Leemput, I. A., Weinans, E., Quax, R., Dakos, V., van Nes, E. H., ... & Scheffer, M. (2020). Foreseeing the future of mutualistic communities beyond collapse. Ecology letters, 23(1), 2-15.
+- Spake, R., Barajas-Barbosa, M. P., Blowes, S. A., Bowler, D. E., Callaghan, C. T., Garbowski, M., ... & Chase, J. M. (2022). Detecting thresholds of ecological change in the Anthropocene. Annual Review of Environment and Resources, 47.
 
 
 #### Co-existence
