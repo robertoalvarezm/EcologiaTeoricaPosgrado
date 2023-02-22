@@ -53,6 +53,17 @@ eLife (2023) https://www.biorxiv.org/content/10.1101/2022.02.13.480281v1.full.pd
 - Dakos, V., Van Nes, E. H., d'Odorico, P., & Scheffer, M. (2012). Robustness of variance and autocorrelation as indicators of critical slowing down. Ecology, 93(2), 264-271.
 - Dakos, V. (2018). Identifying best-indicator species for abrupt transitions in multispecies communities. Ecological indicators, 94, 494-502.
 - Arani, B. M., Carpenter, S. R., Lahti, L., Van Nes, E. H., & Scheffer, M. (2021). Exit time as a measure of ecological resilience. Science, 372(6547), eaay4895.
+- Scheffer, M., Carpenter, S., Foley, J. A., Folke, C., & Walker, B. (2001). Catastrophic shifts in ecosystems. Nature, 413(6856), 591-596.
+- Carpenter, S. R., & Brock, W. A. (2006). Rising variance: a leading indicator of ecological transition. Ecology letters, 9(3), 311-318.
+- Dakos, V., Scheffer, M., Van Nes, E. H., Brovkin, V., Petoukhov, V., & Held, H. (2008). Slowing down as an early warning signal for abrupt climate change. Proceedings of the National Academy of Sciences, 105(38), 14308-14312.
+- Van Nes, E. H., & Scheffer, M. (2007). Slow recovery from perturbations as a generic indicator of a nearby catastrophic shift. The American Naturalist, 169(6), 738-747.
+- Wissel, C. (1984). A universal law of the characteristic return time near thresholds. Oecologia, 65, 101-107.
+- Drake, J. M., & Griffen, B. D. (2010). Early warning signals of extinction in deteriorating environments. Nature, 467(7314), 456-459.
+- Guttal, V., & Jayaprakash, C. (2008). Changing skewness: an early warning signal of regime shifts in ecosystems. Ecology letters, 11(5), 450-460.
+- Biggs, R., Carpenter, S. R., & Brock, W. A. (2009). Turning back from the brink: detecting an impending regime shift in time to avert it. Proceedings of the National academy of Sciences, 106(3), 826-831.
+- Hastings, A., & Wysham, D. B. (2010). Regime shifts in ecological systems can occur with no warning. Ecology letters, 13(4), 464-472.
+- Kéfi, S., Rietkerk, M., Alados, C. L., Pueyo, Y., Papanastasis, V. P., ElAich, A., & De Ruiter, P. C. (2007). Spatial vegetation patterns and imminent desertification in Mediterranean arid ecosystems. Nature, 449(7159), 213-217.
+- Julio Alberto Alegre Stelzer, Jorrit Padric Mesman, Rita Adrian, Bastiaan Willem Ibelings,Early warning signals of regime shifts for aquatic systems: Can experiments help to bridge the gap between theory and real-world application?,Ecological Complexity,Volume 47,2021,100944,ISSN 1476-945X,https://doi.org/10.1016/j.ecocom.2021.100944 (https://www.sciencedirect.com/science/article/pii/S1476945X21000374)
 
 
 #### Co-existence
