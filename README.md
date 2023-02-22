@@ -82,7 +82,15 @@ Aranda-Diaz, A., Willis L., Nguyen T., Ho, P-Y., Vila, J.C.C., Thomsen T., Chave
 
 
 
-#### Disbiosis
+#### Dysbiosis
+
+- Magne, F.; Gotteland, M.; Gauthier, L.; Zazueta, A.; Pesoa, S.; Navarrete, P.; Balamurugan, R. The Firmicutes/Bacteroidetes Ratio: A Relevant Marker of Gut Dysbiosis in Obese Patients? Nutrients 2020, 12, 1474. https://doi.org/10.3390/nu12051474
+- Mariat, D., Firmesse, O., Levenez, F. et al. The Firmicutes/Bacteroidetes ratio of the human microbiota changes with age. BMC Microbiol 9, 123 (2009). https://doi.org/10.1186/1471-2180-9-123
+- Gina C. Johnson, Samuel Degregori, Paul H. Barber, Daniel T. Blumstein Firmicutes and Bacteroidetes explain mass gain variation in an obligate hibernator bioRxiv 2021.09.24.461421; doi: https://doi.org/10.1101/2021.09.24.461421
+- Ahmed, E. A., Ahmed, S. M., Zakaria, N. H., Baddour, N. M., & Header, D. A. (2022). Study of the gut microbiome in Egyptian patients with active ulcerative colitis. Revista de Gastroenterología de México (English Edition).
+- [Personal science: the guide to Microbiome ] https://psm.personalscience.com/index.html#intro
+
+
 
 #### Other
 
