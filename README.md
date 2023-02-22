@@ -24,8 +24,7 @@ Estrela S., Diaz-Colunga, J., Vila, J.C.C., Sanchez-Gorostiaga, A., Sanchez, A.
 eLife (2023) https://www.biorxiv.org/content/10.1101/2022.02.13.480281v1.full.pdf
 - The community-function landscape of microbial consortia, Alvaro Sanchez, Djordje Bajic, Juan Diaz-Colunga, Abigail Skwara, Jean C.C. Vila, Seppe Kuehn, Cell Systems, Volume 14, Issue 2, 2023, Pages 122-134, ISSN 2405-4712, https://doi.org/10.1016/j.cels.2022.12.011.
 (https://www.sciencedirect.com/science/article/pii/S2405471222004999)
-
-
+- Sylvie Estrela, Jean C.C. Vila, Nanxi Lu, Djordje Bajić, Maria Rebolleda-Gómez, Chang-Yu Chang, Joshua E. Goldford, Alicia Sanchez-Gorostiaga, Álvaro Sánchez, Functional attractors in microbial community assembly, Cell Systems, Volume 13, Issue 1,2022, Pages 2942.e7,ISSN 2405-4712,https://doi.org/10.1016/j.cels.2021.09.011.(https://www.sciencedirect.com/science/article/pii/S2405471221003793)
 - [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg) Román Zapién Campos
 
 
