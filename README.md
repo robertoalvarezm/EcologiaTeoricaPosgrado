@@ -29,6 +29,7 @@ eLife (2023) https://www.biorxiv.org/content/10.1101/2022.02.13.480281v1.full.pd
 - Wei, S., Bahl, M. I., Baunwall, S. M. D., Hvas, C. L., & Licht, T. R. (2021). Determining gut microbial dysbiosis: a review of applied indexes for assessment of intestinal microbiota imbalances. Applied and Environmental Microbiology, 87(11), e00395-21.
 - MK AlShawaqfeh, B Wajid, Y Minamoto, M Markel, JA Lidbury, JM Steiner, E Serpedin, JS Suchodolski, A dysbiosis index to assess microbial changes in fecal samples of dogs with chronic inflammatory enteropathy, FEMS Microbiology Ecology, Volume 93, Issue 11, November 2017, fix136, https://doi.org/10.1093/femsec/fix136
 - Halfvarson, J., Brislawn, C., Lamendella, R. et al. Dynamics of the human gut microbiome in inflammatory bowel disease. Nat Microbiol 2, 17004 (2017). https://doi.org/10.1038/nmicrobiol.2017.4
+- Emergent simplicity in microbial community assembly. Goldford, J., Lu, N.*, Bajic, D., Estrela, S., Sanchez-Gorostiaga, A., Tikhonov, M., Segre, D., Mehta, P., Sanchez, A. Science (2018) 361:469-74
 - [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg) Román Zapién Campos
 
 
