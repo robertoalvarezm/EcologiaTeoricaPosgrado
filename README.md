@@ -68,6 +68,8 @@ Disentangling Interactions in the Microbiome: A Network Perspective,Trends in Mi
 
 -  Assembly of gut-derived bacterial communities follows early-bird resource utilization dynamics
 Aranda-Diaz, A., Willis L., Nguyen T., Ho, P-Y., Vila, J.C.C., Thomsen T., Chavez, T., Yan, J., Yu, F. B., Neff, N., Sanchez A, Estrela S.# Huang K.C.# BioRxiv (2023) 10.1101/2023.01.13.523996v1
+- Predictability of the community-function landscape in wine yeast ecosystems, Ruiz, J., De Celis, M., Diaz-Colunga, J., Vila J.C.C., Benitez-Dominguez, B., Vicente J., Santos, A., Sanchez A., & Belda, I. BioRxiv (2022) 10.1101/2022.12.15.520418
+
 
 #### Disbiosis
 
