@@ -19,6 +19,9 @@ https://doi.org/10.7554/eLife.55650
 - Calleja-Solanas, V., Khalil, N., Gómez-Gardeñes, J., Hernández-García, E., & Meloni, S. (2022). Structured interactions as a stabilizing mechanism for competitive ecological communities. Physical Review E, 106(6), 064307.
 - Emergent ecosystem functions follow simple quantitative rules Diaz-Colunga, J.*, Skwara, A*., Vila, J.C.C., Bajic, D. & Sanchez A. BioRxiv (2022) https://www.biorxiv.org/content/10.1101/2022.06.21.496987v1.full.pdf
 - Emergent coexistence in multispecies microbial communities Chang, C-Y., Bajic, D., Vila, J.C.C., Estrela, S. & Sanchez A. BioRxiv (2022) https://www.biorxiv.org/content/10.1101/2022.05.20.492860v2.full.pdf
+-  Diversity begets diversity under metabolic niche construction.
+Estrela S., Diaz-Colunga, J., Vila, J.C.C., Sanchez-Gorostiaga, A., Sanchez, A.
+eLife (2023) [BioRxiv (2023)https://www.biorxiv.org/content/10.1101/2022.02.13.480281v1.full.pdf
 
 - [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg) Román Zapién Campos
 
