@@ -51,7 +51,8 @@ eLife (2023) https://www.biorxiv.org/content/10.1101/2022.02.13.480281v1.full.pd
 /doi/10.1126/science.ade2516
 - Nazarimehr, F., Jafari, S., Perc, M., & Sprott, J. C. (2020). Critical slowing down indicators. Europhysics Letters, 132(1), 18001.
 - Dakos, V., Van Nes, E. H., d'Odorico, P., & Scheffer, M. (2012). Robustness of variance and autocorrelation as indicators of critical slowing down. Ecology, 93(2), 264-271.
-- 
+- Dakos, V. (2018). Identifying best-indicator species for abrupt transitions in multispecies communities. Ecological indicators, 94, 494-502.
+- Arani, B. M., Carpenter, S. R., Lahti, L., Van Nes, E. H., & Scheffer, M. (2021). Exit time as a measure of ecological resilience. Science, 372(6547), eaay4895.
 
 
 #### Co-existence
