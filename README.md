@@ -25,7 +25,12 @@ eLife (2023) https://www.biorxiv.org/content/10.1101/2022.02.13.480281v1.full.pd
 - The community-function landscape of microbial consortia, Alvaro Sanchez, Djordje Bajic, Juan Diaz-Colunga, Abigail Skwara, Jean C.C. Vila, Seppe Kuehn, Cell Systems, Volume 14, Issue 2, 2023, Pages 122-134, ISSN 2405-4712, https://doi.org/10.1016/j.cels.2022.12.011.
 (https://www.sciencedirect.com/science/article/pii/S2405471222004999)
 - Sylvie Estrela, Jean C.C. Vila, Nanxi Lu, Djordje Bajić, Maria Rebolleda-Gómez, Chang-Yu Chang, Joshua E. Goldford, Alicia Sanchez-Gorostiaga, Álvaro Sánchez, Functional attractors in microbial community assembly, Cell Systems, Volume 13, Issue 1,2022, Pages 2942.e7,ISSN 2405-4712,https://doi.org/10.1016/j.cels.2021.09.011.(https://www.sciencedirect.com/science/article/pii/S2405471221003793)
+- Levy, R., Magis, A. T., Earls, J. C., Manor, O., Wilmanski, T., Lovejoy, J., ... & Price, N. D. (2020). Longitudinal analysis reveals transition barriers between dominant ecological states in the gut microbiome. Proceedings of the National Academy of Sciences, 117(24), 13839-13845.
+- Wei, S., Bahl, M. I., Baunwall, S. M. D., Hvas, C. L., & Licht, T. R. (2021). Determining gut microbial dysbiosis: a review of applied indexes for assessment of intestinal microbiota imbalances. Applied and Environmental Microbiology, 87(11), e00395-21.
+- MK AlShawaqfeh, B Wajid, Y Minamoto, M Markel, JA Lidbury, JM Steiner, E Serpedin, JS Suchodolski, A dysbiosis index to assess microbial changes in fecal samples of dogs with chronic inflammatory enteropathy, FEMS Microbiology Ecology, Volume 93, Issue 11, November 2017, fix136, https://doi.org/10.1093/femsec/fix136
+- Halfvarson, J., Brislawn, C., Lamendella, R. et al. Dynamics of the human gut microbiome in inflammatory bowel disease. Nat Microbiol 2, 17004 (2017). https://doi.org/10.1038/nmicrobiol.2017.4
 - [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg) Román Zapién Campos
+
 
 
 #### Rank-abundance
@@ -89,6 +94,9 @@ Aranda-Diaz, A., Willis L., Nguyen T., Ho, P-Y., Vila, J.C.C., Thomsen T., Chave
 - Gina C. Johnson, Samuel Degregori, Paul H. Barber, Daniel T. Blumstein Firmicutes and Bacteroidetes explain mass gain variation in an obligate hibernator bioRxiv 2021.09.24.461421; doi: https://doi.org/10.1101/2021.09.24.461421
 - Ahmed, E. A., Ahmed, S. M., Zakaria, N. H., Baddour, N. M., & Header, D. A. (2022). Study of the gut microbiome in Egyptian patients with active ulcerative colitis. Revista de Gastroenterología de México (English Edition).
 - [Personal science: the guide to Microbiome](https://psm.personalscience.com/index.html#intro)
+- Houtman, T. A., Eckermann, H. A., Smidt, H., & de Weerth, C. (2022). Gut microbiota and BMI throughout childhood: the role of firmicutes, bacteroidetes, and short-chain fatty acid producers. Scientific Reports, 12(1), 3140.
+- [Canine microbiota dysbiosis index](https://vetmed.tamu.edu/gilab/service/assays/canine-microbiota-dysbiosis-index/)
+
 
 
 
