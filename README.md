@@ -7,7 +7,10 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 ----
 ## 2023
 
+### Books
 
+- McCann, K. S., & Gellner, G. (Eds.). (2020). Theoretical ecology: concepts and applications.
+- 
 ### Artículos
 
 #### Time-series and models
@@ -72,6 +75,10 @@ bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 - Sergey Bredikhin, Approaches to disruptive change: The contribution of complexity science to futures studies, Futures,Volume 124,2020,102624,ISSN 0016-3287,https://doi.org/10.1016/j.futures.2020.102624(https://www.sciencedirect.com/science/article/pii/S0016328720301142)
 - Lever, J. J., van de Leemput, I. A., Weinans, E., Quax, R., Dakos, V., van Nes, E. H., ... & Scheffer, M. (2020). Foreseeing the future of mutualistic communities beyond collapse. Ecology letters, 23(1), 2-15.
 - Spake, R., Barajas-Barbosa, M. P., Blowes, S. A., Bowler, D. E., Callaghan, C. T., Garbowski, M., ... & Chase, J. M. (2022). Detecting thresholds of ecological change in the Anthropocene. Annual Review of Environment and Resources, 47.
+- Solé, R., Sardanyés, J., & Elena, S. F. (2021). Phase transitions in virology. Reports on Progress in Physics, 84(11), 115901.
+- Heffern, E. F., Huelskamp, H., Bahar, S., & Inglis, R. F. (2021). Phase transitions in biology: from bird flocks to population dynamics. Proceedings of the Royal Society B, 288(1961), 20211111.
+- Adam D. Scott, Dawn M. King, Stephen W. Ordway, and Sonya Bahar , "Phase transitions in evolutionary dynamics", Chaos 32, 122101 (2022) https://doi.org/10.1063/5.0124274
+- Tian, Y., Tan, Z., Hou, H., Li, G., Cheng, A., Qiu, Y., ... & Sun, P. (2022). Theoretical foundations of studying criticality in the brain. Network Neuroscience, 6(4), 1148-1185.
 
 
 #### Co-existence
