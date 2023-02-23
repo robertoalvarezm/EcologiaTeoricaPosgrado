@@ -37,6 +37,7 @@ eLife (2023) https://www.biorxiv.org/content/10.1101/2022.02.13.480281v1.full.pd
  Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics
 bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 - Rossetto Marcelino, V., Welsh, C., Diener, C., Gulliver, E. L., Rutten, E. L., Young, R. B., ... & Forster, S. C. (2023). Disease-specific loss of microbial cross-feeding interactions in the human gut. bioRxiv, 2023-02.
+- Izutsu, M., Lake, D. M., Matson, Z. W., Dodson, J. P., & Lenski, R. E. (2021). Effects of periodic bottlenecks on the dynamics of adaptive evolution in microbial populations. bioRxiv, 2021-12.
 - [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg) Román Zapién Campos
 
 
@@ -79,6 +80,19 @@ bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 - Heffern, E. F., Huelskamp, H., Bahar, S., & Inglis, R. F. (2021). Phase transitions in biology: from bird flocks to population dynamics. Proceedings of the Royal Society B, 288(1961), 20211111.
 - Adam D. Scott, Dawn M. King, Stephen W. Ordway, and Sonya Bahar , "Phase transitions in evolutionary dynamics", Chaos 32, 122101 (2022) https://doi.org/10.1063/5.0124274
 - Tian, Y., Tan, Z., Hou, H., Li, G., Cheng, A., Qiu, Y., ... & Sun, P. (2022). Theoretical foundations of studying criticality in the brain. Network Neuroscience, 6(4), 1148-1185.
+- Choi, J. M., Holehouse, A. S., & Pappu, R. V. (2020). Physical principles underlying the complex biology of intracellular phase transitions. Annual review of biophysics, 49, 107-133.
+- Chialvo, D. R. (2018). Life at the edge: complexity and criticality in biological function. arXiv preprint arXiv:1810.11737.
+- Vidiella, B., Guillamon, A., Sardanyés, J. et al. Author Correction: Engineering self-organized criticality in living cells. Nat Commun 12, 5699 (2021). https://doi.org/10.1038/s41467-021-25603-6
+- Longo, Giuseppe, and Maël Montévil. 2020. “From Physics to Biology by Extending Criticality and Symmetry Breakings: An Update.” Acta Europeana Systemica 9 (1): 77–92. https://doi.org/10.14428/aes.v9i1.56043
+- Solé, R., Conde-Pueyo, N., Guillamon, A., Maull, V., Pla, J., Sardanyés, J., & Vidiella, B. (2021). Synthetic criticality in cellular brains. Journal of Physics: Complexity, 2(4), 041001.
+- Mora, T., & Bialek, W. (2011). Are biological systems poised at criticality?. Journal of Statistical Physics, 144, 268-302.
+- O’Byrne, J., & Jerbi, K. (2022). How critical is brain criticality?. Trends in Neurosciences.
+- Valverde, S., Ohse, S., Turalska, M., West, B. J., & Garcia-Ojalvo, J. (2015). Structural determinants of criticality in biological networks. Frontiers in physiology, 6, 127.
+- Zimmern, V. (2020). Why brain criticality is clinically relevant: a scoping review. Frontiers in neural circuits, 14, 54.
+- Wilting, J., & Priesemann, V. (2019). 25 years of criticality in neuroscience—established results, open controversies, novel concepts. Current opinion in neurobiology, 58, 105-111.
+- Plenz, D., Ribeiro, T. L., Miller, S. R., Kells, P. A., Vakili, A., & Capek, E. L. (2021). Self-organized criticality in the brain. Frontiers in Physics, 9, 639389.
+- Wang, X. (2018). Bifurcation Analysis of Two Biological Systems: A Tritrophic Food Chain Model and An Oscillating Networks Model (Doctoral dissertation, The University of Western Ontario (Canada)).
+- van Voorn, G. A. K. (2006). PhD mini course: introduction to bifurcation analysis. Dept Theor. Biology, Vrije Universiteit de Boelelaan, Amsterdam,[cit. 2016-05-12]. Dostupné z: http://www. bio. vu. nl/thb/research/project/globif/Globif_text. pdf.
 
 
 #### Co-existence
