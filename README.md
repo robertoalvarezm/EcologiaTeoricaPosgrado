@@ -91,6 +91,7 @@ bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 - Zimmern, V. (2020). Why brain criticality is clinically relevant: a scoping review. Frontiers in neural circuits, 14, 54.
 - Wilting, J., & Priesemann, V. (2019). 25 years of criticality in neuroscience—established results, open controversies, novel concepts. Current opinion in neurobiology, 58, 105-111.
 - Plenz, D., Ribeiro, T. L., Miller, S. R., Kells, P. A., Vakili, A., & Capek, E. L. (2021). Self-organized criticality in the brain. Frontiers in Physics, 9, 639389.
+- Ezaki, T., Fonseca dos Reis, E., Watanabe, T., Sakaki, M., & Masuda, N. (2020). Closer to critical resting-state neural dynamics in individuals with higher fluid intelligence. Communications biology, 3(1), 52.
 - Wang, X. (2018). Bifurcation Analysis of Two Biological Systems: A Tritrophic Food Chain Model and An Oscillating Networks Model (Doctoral dissertation, The University of Western Ontario (Canada)).
 - van Voorn, G. A. K. (2006). PhD mini course: introduction to bifurcation analysis. Dept Theor. Biology, Vrije Universiteit de Boelelaan, Amsterdam,[cit. 2016-05-12]. Dostupné z: http://www. bio. vu. nl/thb/research/project/globif/Globif_text. pdf.
 
