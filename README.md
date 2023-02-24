@@ -37,6 +37,7 @@ eLife (2023) https://www.biorxiv.org/content/10.1101/2022.02.13.480281v1.full.pd
  Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics
 bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 - Rossetto Marcelino, V., Welsh, C., Diener, C., Gulliver, E. L., Rutten, E. L., Young, R. B., ... & Forster, S. C. (2023). Disease-specific loss of microbial cross-feeding interactions in the human gut. bioRxiv, 2023-02.
+- Boza, G., Barabás, G., Scheuring, I., & Zachar, I. (2023). Eco-evolutionary modelling of microbial syntrophy indicates the robustness of cross-feeding over cross-facilitation. Scientific Reports, 13(1), 907.
 - Izutsu, M., Lake, D. M., Matson, Z. W., Dodson, J. P., & Lenski, R. E. (2021). Effects of periodic bottlenecks on the dynamics of adaptive evolution in microbial populations. bioRxiv, 2021-12.
 - [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg) Román Zapién Campos
 
