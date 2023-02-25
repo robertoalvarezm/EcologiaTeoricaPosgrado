@@ -10,7 +10,9 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 ### Books
 
 - McCann, K. S., & Gellner, G. (Eds.). (2020). Theoretical ecology: concepts and applications.
-- 
+- Solé, R. (2011). Phase transitions (Vol. 3). Princeton University Press.
+- Scheffer, M. (2020). Critical transitions in nature and society (Vol. 16). Princeton University Press.
+- Bak, P. (2013). How nature works: the science of self-organized criticality. Springer Science & Business Media.
 ### Artículos
 
 #### Time-series and models
@@ -37,8 +39,9 @@ eLife (2023) https://www.biorxiv.org/content/10.1101/2022.02.13.480281v1.full.pd
  Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics
 bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 - Rossetto Marcelino, V., Welsh, C., Diener, C., Gulliver, E. L., Rutten, E. L., Young, R. B., ... & Forster, S. C. (2023). Disease-specific loss of microbial cross-feeding interactions in the human gut. bioRxiv, 2023-02.
-- Boza, G., Barabás, G., Scheuring, I., & Zachar, I. (2023). Eco-evolutionary modelling of microbial syntrophy indicates the robustness of cross-feeding over cross-facilitation. Scientific Reports, 13(1), 907.
+- Bloxham, B., Lee, H., & Gore, J. (2023). Biodiversity is enhanced by sequential resource utilization and environmental fluctuations via emergent temporal niches. bioRxiv, 2023-02.
 - Izutsu, M., Lake, D. M., Matson, Z. W., Dodson, J. P., & Lenski, R. E. (2021). Effects of periodic bottlenecks on the dynamics of adaptive evolution in microbial populations. bioRxiv, 2021-12.
+- Fraboul, J., Biroli, G., & De Monte, S. (2021). Artificial selection of communities drives the emergence of structured interactions. arXiv preprint arXiv:2112.06845.
 - [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg) Román Zapién Campos
 
 
@@ -93,8 +96,11 @@ bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 - Wilting, J., & Priesemann, V. (2019). 25 years of criticality in neuroscience—established results, open controversies, novel concepts. Current opinion in neurobiology, 58, 105-111.
 - Plenz, D., Ribeiro, T. L., Miller, S. R., Kells, P. A., Vakili, A., & Capek, E. L. (2021). Self-organized criticality in the brain. Frontiers in Physics, 9, 639389.
 - Ezaki, T., Fonseca dos Reis, E., Watanabe, T., Sakaki, M., & Masuda, N. (2020). Closer to critical resting-state neural dynamics in individuals with higher fluid intelligence. Communications biology, 3(1), 52.
+- Dylewsky, D., Lenton, T. M., Scheffer, M., Bury, T. M., Fletcher, C. G., Anand, M., & Bauch, C. T. (2022). Universal Early Warning Signals of Phase Transitions in Climate Systems. arXiv preprint arXiv:2206.00060.
 - Wang, X. (2018). Bifurcation Analysis of Two Biological Systems: A Tritrophic Food Chain Model and An Oscillating Networks Model (Doctoral dissertation, The University of Western Ontario (Canada)).
 - van Voorn, G. A. K. (2006). PhD mini course: introduction to bifurcation analysis. Dept Theor. Biology, Vrije Universiteit de Boelelaan, Amsterdam,[cit. 2016-05-12]. Dostupné z: http://www. bio. vu. nl/thb/research/project/globif/Globif_text. pdf.
+- Scheffer, M., Bascompte, J., Brock, W. A., Brovkin, V., Carpenter, S. R., Dakos, V., ... & Sugihara, G. (2009). Early-warning signals for critical transitions. Nature, 461(7260), 53-59.
+- Dakos, V., Carpenter, S. R., Brock, W. A., Ellison, A. M., Guttal, V., Ives, A. R., ... & Scheffer, M. (2012). Methods for detecting early warnings of critical transitions in time series illustrated using simulated ecological data. PloS one, 7(7), e41010.
 
 
 #### Co-existence
