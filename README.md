@@ -61,6 +61,7 @@ bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 - Arnold, J., & Schäfer, F. (2022). Replacing neural networks by optimal analytical predictors for the detection of phase transitions. Physical Review X, 12(3), 031044.
 - Hu, J., Amor, D. R., Barbier, M., Bunin, G., & Gore, J. (2022). Emergent phases of ecological diversity and dynamics mapped in microcosms. Science, 378(6615), 85-89.
 - Matthias Huelsmann, Martin Ackermann, Community instability in the microbial world, Science, 378, 6615, (29-30), (2022).
+- Veronika Dubinkina Yulia Fridman Parth Pratim Pandey Sergei Maslov (2019) Multistability and regime shifts in microbial communities explained by competition for essential nutrients eLife 8:e49720. https://doi.org/10.7554/eLife.49720
 /doi/10.1126/science.ade2516
 - Nazarimehr, F., Jafari, S., Perc, M., & Sprott, J. C. (2020). Critical slowing down indicators. Europhysics Letters, 132(1), 18001.
 - Dakos, V., Van Nes, E. H., d'Odorico, P., & Scheffer, M. (2012). Robustness of variance and autocorrelation as indicators of critical slowing down. Ecology, 93(2), 264-271.
