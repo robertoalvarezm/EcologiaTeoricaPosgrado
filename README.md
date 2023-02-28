@@ -57,6 +57,7 @@ bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 
 #### Criticality and Phase-Transitions
 
+- [Bifurcations in Biological Dynamics Lecture Notes André M. de Roos](https://staff.fnwi.uva.nl/a.m.deroos/projects/BifurcationTheory/)
 - Proverbio, D., Montanari, A. N., Skupin, A., & Gonçalves, J. (2022). Buffering variability in cell regulation motifs close to criticality. Physical Review E, 106(3), L032402.
 - Arnold, J., & Schäfer, F. (2022). Replacing neural networks by optimal analytical predictors for the detection of phase transitions. Physical Review X, 12(3), 031044.
 - Hu, J., Amor, D. R., Barbier, M., Bunin, G., & Gore, J. (2022). Emergent phases of ecological diversity and dynamics mapped in microcosms. Science, 378(6615), 85-89.
