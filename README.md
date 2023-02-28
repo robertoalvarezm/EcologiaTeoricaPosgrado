@@ -57,7 +57,6 @@ bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 
 #### Criticality and Phase-Transitions
 
-- [Bifurcations in Biological Dynamics Lecture Notes André M. de Roos](https://staff.fnwi.uva.nl/a.m.deroos/projects/BifurcationTheory/)
 - Proverbio, D., Montanari, A. N., Skupin, A., & Gonçalves, J. (2022). Buffering variability in cell regulation motifs close to criticality. Physical Review E, 106(3), L032402.
 - Arnold, J., & Schäfer, F. (2022). Replacing neural networks by optimal analytical predictors for the detection of phase transitions. Physical Review X, 12(3), 031044.
 - Hu, J., Amor, D. R., Barbier, M., Bunin, G., & Gore, J. (2022). Emergent phases of ecological diversity and dynamics mapped in microcosms. Science, 378(6615), 85-89.
@@ -127,6 +126,7 @@ Computational and Structural Biotechnology Journal,Volume 19, 2021,Pages 2687-26
 Disentangling Interactions in the Microbiome: A Network Perspective,Trends in Microbiology,Volume 25, Issue 3,2017,Pages 217-228,ISSN 0966-842X,https://doi.org/10.1016/j.tim.2016.11.008.
 - Mehdi Layeghifard, David M. Hwang, David S. Guttman,Disentangling Interactions in the Microbiome: A Network Perspective,Trends in Microbiology,Volume 25,Issue 3,2017,Pages 217-228,ISSN 0966-842X,https://doi.org/10.1016/j.tim.2016.11.008.
 - Wen, T., Xie, P., Yang, S., Niu, G., Liu, X., Ding, Z., ... & Yuan, J. (2022). ggClusterNet: An R package for microbiome network analysis and modularity‐based multiple network layouts. iMeta, 1(3), e32.
+- Pacheco, A. R., Pauvert, C., Kishore, D., & Segrè, D. (2022). Toward FAIR Representations of Microbial Interactions. Msystems, 7(5), e00659-22. 
 
 #### Community Assembly
 
