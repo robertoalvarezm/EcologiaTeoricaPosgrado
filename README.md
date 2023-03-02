@@ -40,6 +40,7 @@ eLife (2023) https://www.biorxiv.org/content/10.1101/2022.02.13.480281v1.full.pd
 bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 - Rossetto Marcelino, V., Welsh, C., Diener, C., Gulliver, E. L., Rutten, E. L., Young, R. B., ... & Forster, S. C. (2023). Disease-specific loss of microbial cross-feeding interactions in the human gut. bioRxiv, 2023-02.
 - Bloxham, B., Lee, H., & Gore, J. (2023). Biodiversity is enhanced by sequential resource utilization and environmental fluctuations via emergent temporal niches. bioRxiv, 2023-02.
+- Venturelli, O. S., Carr, A. V., Fisher, G., Hsu, R. H., Lau, R., Bowen, B. P., ... & Arkin, A. P. (2018). Deciphering microbial interactions in synthetic human gut microbiome communities. Molecular systems biology, 14(6), e8157.
 - Izutsu, M., Lake, D. M., Matson, Z. W., Dodson, J. P., & Lenski, R. E. (2021). Effects of periodic bottlenecks on the dynamics of adaptive evolution in microbial populations. bioRxiv, 2021-12.
 - Fraboul, J., Biroli, G., & De Monte, S. (2021). Artificial selection of communities drives the emergence of structured interactions. arXiv preprint arXiv:2112.06845.
 - [Modelos estocásticos para estudiar la ecología del microbioma](https://youtu.be/hginU4o9vmg) Román Zapién Campos
@@ -135,6 +136,7 @@ Aranda-Diaz, A., Willis L., Nguyen T., Ho, P-Y., Vila, J.C.C., Thomsen T., Chave
 - Predictability of the community-function landscape in wine yeast ecosystems, Ruiz, J., De Celis, M., Diaz-Colunga, J., Vila J.C.C., Benitez-Dominguez, B., Vicente J., Santos, A., Sanchez A., & Belda, I. BioRxiv (2022) https://doi.org/10.1101/2022.12.15.520418
 -  Environmental modulation of global epistasis is governed by effective genetic interactions Diaz-Colunga, J.#, Sanchez A., & Ogbunugafor, C.B., BioRxiv (2022) https://www.biorxiv.org/content/10.1101/2022.11.02.514859v1.full.pdf
 -  Sanchez, A., Bajic, D., Diaz-Colunga, J., Skwara, A., Vila, J. C., & Kuehn, S. (2023). The community-function landscape of microbial consortia. Cell Systems, 14(2), 122-134.
+-  Venturelli, O. S., Carr, A. V., Fisher, G., Hsu, R. H., Lau, R., Bowen, B. P., ... & Arkin, A. P. (2018). Deciphering microbial interactions in synthetic human gut microbiome communities. Molecular systems biology, 14(6), e8157.
 
 
 
