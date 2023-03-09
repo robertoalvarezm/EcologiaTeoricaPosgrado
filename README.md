@@ -13,6 +13,7 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 - Solé, R. (2011). Phase transitions (Vol. 3). Princeton University Press.
 - Scheffer, M. (2020). Critical transitions in nature and society (Vol. 16). Princeton University Press.
 - Bak, P. (2013). How nature works: the science of self-organized criticality. Springer Science & Business Media.
+- Stevens, M. H. H. (2009). A Primer of Ecology with R. New York: Springer.
 ### Artículos
 
 #### Time-series and models
