@@ -17,7 +17,8 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 
 #### Time-series and models
 
-- Lana Descheemaeker Sophie de Buyl (2020) Stochastic logistic models reproduce experimental time series of microbial communities eLife 9:e55650.
+- (Primer of Ecology using R Hank Stevens)[https://hankstevens.github.io/Primer-of-Ecology/index.html]
+Lana Descheemaeker Sophie de Buyl (2020) Stochastic logistic models reproduce experimental time series of microbial communities eLife 9:e55650.
 https://doi.org/10.7554/eLife.55650
 - Ho, P. Y., Good, B. H., & Huang, K. C. (2022). Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. Elife, 11, e75168.
 - Sadhu, S., & Thakur, S. C. (2022). Analysis of bistable behavior and early warning signals of extinction in a class of predator-prey models. arXiv preprint arXiv:2210.04097.
