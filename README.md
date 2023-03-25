@@ -106,6 +106,7 @@ bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 - van Voorn, G. A. K. (2006). PhD mini course: introduction to bifurcation analysis. Dept Theor. Biology, Vrije Universiteit de Boelelaan, Amsterdam,[cit. 2016-05-12]. Dostupné z: http://www. bio. vu. nl/thb/research/project/globif/Globif_text. pdf.
 - Scheffer, M., Bascompte, J., Brock, W. A., Brovkin, V., Carpenter, S. R., Dakos, V., ... & Sugihara, G. (2009). Early-warning signals for critical transitions. Nature, 461(7260), 53-59.
 - Dakos, V., Carpenter, S. R., Brock, W. A., Ellison, A. M., Guttal, V., Ives, A. R., ... & Scheffer, M. (2012). Methods for detecting early warnings of critical transitions in time series illustrated using simulated ecological data. PloS one, 7(7), e41010.
+- Meyer, K. (2016). A mathematical review of resilience in ecology. Natural Resource Modeling, 29(3), 339-352.
 
 
 #### Co-existence
