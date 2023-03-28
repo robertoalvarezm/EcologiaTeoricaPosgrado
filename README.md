@@ -22,6 +22,9 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 - [Theoretical Community Ecology by  Stefano Allesina](https://stefanoallesina.github.io/Theoretical_Community_Ecology/)
 - [Community Ecology from Patterns to Principles](https://www.ictp-saifr.org/community-ecology-from-patterns-to-principles/)
 - Lana Descheemaeker Sophie de Buyl (2020) Stochastic logistic models reproduce experimental time series of microbial communities eLife 9:e55650.https://doi.org/10.7554/eLife.55650
+- Learning the functional landscape of microbial communities
+- Barbier, M., Arnoldi, J. F., Bunin, G., & Loreau, M. (2018). Generic assembly patterns in complex ecological communities. Proceedings of the National Academy of Sciences, 115(9), 2156-2161.
+- Sanchez, A., Bajic, D., Diaz-Colunga, J., Skwara, A., Vila, J. C., & Kuehn, S. (2022). The community-function landscape of microbial consortia.
 - Ho, P. Y., Good, B. H., & Huang, K. C. (2022). Competition for fluctuating resources reproduces statistics of species abundance over time across wide-ranging microbiotas. Elife, 11, e75168.
 - Sadhu, S., & Thakur, S. C. (2022). Analysis of bistable behavior and early warning signals of extinction in a class of predator-prey models. arXiv preprint arXiv:2210.04097.
 - Calleja-Solanas, V., Khalil, N., Gómez-Gardeñes, J., Hernández-García, E., & Meloni, S. (2022). Structured interactions as a stabilizing mechanism for competitive ecological communities. Physical Review E, 106(6), 064307.
