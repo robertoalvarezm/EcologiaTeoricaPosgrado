@@ -21,6 +21,7 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 - [Primer of Ecology using R by   Hank Stevens](https://hankstevens.github.io/Primer-of-Ecology/index.html)
 - [Theoretical Community Ecology by  Stefano Allesina](https://stefanoallesina.github.io/Theoretical_Community_Ecology/)
 - [Community Ecology from Patterns to Principles](https://www.ictp-saifr.org/community-ecology-from-patterns-to-principles/)
+-- (van Voorn, G. A. K. (2006). PhD mini course: Introduction to bifurcation analysis. Dept Theor. Biology, Vrije Universiteit de Boelelaan, Amsterdam,cit. 2016-05-12. Dostupné z:) (http://www. bio. vu. nl/thb/research/project/globif/Globif_text. pdf)[Introduction to Bifurcation Analysis].
 - Lana Descheemaeker Sophie de Buyl (2020) Stochastic logistic models reproduce experimental time series of microbial communities eLife 9:e55650.https://doi.org/10.7554/eLife.55650
 - Learning the functional landscape of microbial communities
 - Barbier, M., Arnoldi, J. F., Bunin, G., & Loreau, M. (2018). Generic assembly patterns in complex ecological communities. Proceedings of the National Academy of Sciences, 115(9), 2156-2161.
@@ -106,7 +107,7 @@ bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 - Ezaki, T., Fonseca dos Reis, E., Watanabe, T., Sakaki, M., & Masuda, N. (2020). Closer to critical resting-state neural dynamics in individuals with higher fluid intelligence. Communications biology, 3(1), 52.
 - Dylewsky, D., Lenton, T. M., Scheffer, M., Bury, T. M., Fletcher, C. G., Anand, M., & Bauch, C. T. (2022). Universal Early Warning Signals of Phase Transitions in Climate Systems. arXiv preprint arXiv:2206.00060.
 - Wang, X. (2018). Bifurcation Analysis of Two Biological Systems: A Tritrophic Food Chain Model and An Oscillating Networks Model (Doctoral dissertation, The University of Western Ontario (Canada)).
-- van Voorn, G. A. K. (2006). PhD mini course: introduction to bifurcation analysis. Dept Theor. Biology, Vrije Universiteit de Boelelaan, Amsterdam,[cit. 2016-05-12]. Dostupné z: http://www. bio. vu. nl/thb/research/project/globif/Globif_text. pdf.
+- van Voorn, G. A. K. (2006). PhD mini course: Introduction to bifurcation analysis. Dept Theor. Biology, Vrije Universiteit de Boelelaan, Amsterdam,[cit. 2016-05-12]. Dostupné z: (http://www. bio. vu. nl/thb/research/project/globif/Globif_text. pdf)[Introduction to Bifurcation Analysis].
 - Scheffer, M., Bascompte, J., Brock, W. A., Brovkin, V., Carpenter, S. R., Dakos, V., ... & Sugihara, G. (2009). Early-warning signals for critical transitions. Nature, 461(7260), 53-59.
 - Dakos, V., Carpenter, S. R., Brock, W. A., Ellison, A. M., Guttal, V., Ives, A. R., ... & Scheffer, M. (2012). Methods for detecting early warnings of critical transitions in time series illustrated using simulated ecological data. PloS one, 7(7), e41010.
 - Meyer, K. (2016). A mathematical review of resilience in ecology. Natural Resource Modeling, 29(3), 339-352.
