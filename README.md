@@ -5,7 +5,8 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 
 
 ----
-## 2023
+## 2023-2024-2025
+
 
 ### Books
 
@@ -15,6 +16,14 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 - Bak, P. (2013). How nature works: the science of self-organized criticality. Springer Science & Business Media.
 - Stevens, M. H. H. (2009). A Primer of Ecology with R. New York: Springer.
 ### Artículos
+
+### Indispensables por leer
+
+- Diaz-Colunga, J., Skwara, A., Vila, J. C., Bajic, D., & Sanchez, A. (2024). Global epistasis and the emergence of function in microbial consortia. Cell, 187(12), 3108-3119.
+- Evers, K., Borsboom, D., Fried, E. I., Hasselman, F., & Waldorp, L. (2024). Early warning signals of complex critical transitions in deterministic dynamics. Nonlinear Dynamics, 112(21), 19071-19094.
+- Dylewsky, D., Lenton, T. M., Scheffer, M., Bury, T. M., Fletcher, C. G., Anand, M., & Bauch, C. T. (2023). Universal early warning signals of phase transitions in climate systems. Journal of the Royal Society Interface, 20(201), 20220562.
+- Dablander, F., Pichler, A., Cika, A., & Bacilieri, A. (2023). Anticipating critical transitions in psychological systems using early warning signals: Theoretical and practical considerations. Psychological Methods, 28(4), 765.
+- Hagstrom, G. I., & Levin, S. A. (2023). Phase transitions and the theory of early warning indicators for critical transitions. In How worlds collapse (pp. 358-374). Routledge.
 
 #### Time-series and models
 
@@ -112,6 +121,16 @@ bioRxiv 2023.02.17.528811; doi: https://doi.org/10.1101/2023.02.17.528811
 - Dakos, V., Carpenter, S. R., Brock, W. A., Ellison, A. M., Guttal, V., Ives, A. R., ... & Scheffer, M. (2012). Methods for detecting early warnings of critical transitions in time series illustrated using simulated ecological data. PloS one, 7(7), e41010.
 - Meyer, K. (2016). A mathematical review of resilience in ecology. Natural Resource Modeling, 29(3), 339-352.
 
+### Early-warnings
+
+- Scheffer, M., Bascompte, J., Brock, W. A., Brovkin, V., Carpenter, S. R., Dakos, V., ... & Sugihara, G. (2009). Early-warning signals for critical transitions. Nature, 461(7260), 53-59.
+- George, S. V., Kachhara, S., & Ambika, G. (2023). Early warning signals for critical transitions in complex systems. Physica Scripta, 98(7), 072002.
+- Lade, S. J., & Gross, T. (2012). Early warning signals for critical transitions: a generalized modeling approach. PLoS computational biology, 8(2), e1002360.
+- Xu, L., Patterson, D., Levin, S. A., & Wang, J. (2023). Non-equilibrium early-warning signals for critical transitions in ecological systems. Proceedings of the National Academy of Sciences, 120(5), e2218663120.
+- Evers, K., Borsboom, D., Fried, E. I., Hasselman, F., & Waldorp, L. (2024). Early warning signals of complex critical transitions in deterministic dynamics. Nonlinear Dynamics, 112(21), 19071-19094.
+- Dablander, F., Pichler, A., Cika, A., & Bacilieri, A. (2023). Anticipating critical transitions in psychological systems using early warning signals: Theoretical and practical considerations. Psychological Methods, 28(4), 765.
+- Hagstrom, G. I., & Levin, S. A. (2023). Phase transitions and the theory of early warning indicators for critical transitions. In How worlds collapse (pp. 358-374). Routledge.
+- Hagstrom, G. I., & Levin, S. A. (2023). Phase transitions and the theory of early warning indicators for critical transitions. In How worlds collapse (pp. 358-374). Routledge.
 
 #### Co-existence
 
