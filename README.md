@@ -154,7 +154,17 @@ Computational and Structural Biotechnology Journal,Volume 19, 2021,Pages 2687-26
 Disentangling Interactions in the Microbiome: A Network Perspective,Trends in Microbiology,Volume 25, Issue 3,2017,Pages 217-228,ISSN 0966-842X,https://doi.org/10.1016/j.tim.2016.11.008.
 - Mehdi Layeghifard, David M. Hwang, David S. Guttman,Disentangling Interactions in the Microbiome: A Network Perspective,Trends in Microbiology,Volume 25,Issue 3,2017,Pages 217-228,ISSN 0966-842X,https://doi.org/10.1016/j.tim.2016.11.008.
 - Wen, T., Xie, P., Yang, S., Niu, G., Liu, X., Ding, Z., ... & Yuan, J. (2022). ggClusterNet: An R package for microbiome network analysis and modularity‐based multiple network layouts. iMeta, 1(3), e32.
-- Pacheco, A. R., Pauvert, C., Kishore, D., & Segrè, D. (2022). Toward FAIR Representations of Microbial Interactions. Msystems, 7(5), e00659-22. 
+- Pacheco, A. R., Pauvert, C., Kishore, D., & Segrè, D. (2022). Toward FAIR Representations of Microbial Interactions. Msystems, 7(5), e00659-22.
+
+#### Dynamical Network BioMarkers
+
+- Aihara, K., Liu, R., Koizumi, K., Liu, X., & Chen, L. (2022). Dynamical network biomarkers: Theory and applications. Gene, 808, 145997. https://doi.org/10.1016/j.gene.2021.145997
+- Guo, W., Jin, P., Li, R., Huang, L., Liu, Z., Li, H., Zhou, T., Fang, B., & Xia, L. (2023). Dynamic network biomarker identifies cdkn1a-mediated bone mineralization in the triggering phase of osteoporosis. Experimental & Molecular Medicine, 55(1), 81-94. https://doi.org/10.1038/s12276-022-00915-9
+- Han, Y., Akhtar, J., Liu, G., Li, C., & Wang, G. (2023). Early warning and diagnosis of liver cancer based on dynamic network biomarker and deep learning. Computational and Structural Biotechnology Journal, 21, 3478-3489. https://doi.org/10.1016/j.csbj.2023.07.002
+- Li, L., Xu, Y., Yan, L., Li, X., Li, F., Liu, Z., Zhang, C., Lou, Y., Gao, D., Cheng, X., & Chen, L. (2023). Dynamic network biomarker factors orchestrate cell-fate determination at tipping points during hESC differentiation. The Innovation, 4(1), 100364. https://doi.org/10.1016/j.xinn.2022.100364
+- Liu, J., Ding, D., Zhong, J., & Liu, R. (2022). Identifying the critical states and dynamic network biomarkers of cancers based on network entropy. Journal of Translational Medicine, 20(1), 254. https://doi.org/10.1186/s12967-022-03445-0
+- Liu, R., Aihara, K., & Chen, L. (2013). Dynamical network biomarkers for identifying critical transitions and their driving networks of biologic processes. Quantitative Biology, 1(2), 105-114. https://doi.org/10.1007/s40484-013-0008-0
+
 
 #### Community Assembly
 
