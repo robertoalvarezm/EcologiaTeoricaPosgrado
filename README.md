@@ -24,6 +24,7 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 - Dylewsky, D., Lenton, T. M., Scheffer, M., Bury, T. M., Fletcher, C. G., Anand, M., & Bauch, C. T. (2023). Universal early warning signals of phase transitions in climate systems. Journal of the Royal Society Interface, 20(201), 20220562.
 - Dablander, F., Pichler, A., Cika, A., & Bacilieri, A. (2023). Anticipating critical transitions in psychological systems using early warning signals: Theoretical and practical considerations. Psychological Methods, 28(4), 765.
 - Hagstrom, G. I., & Levin, S. A. (2023). Phase transitions and the theory of early warning indicators for critical transitions. In How worlds collapse (pp. 358-374). Routledge.
+- Deng, J., Cordero, O. X., Fukami, T., Levin, S. A., Pringle, R. M., Solé, R., & Saavedra, S. (2024). The development of ecological systems along paths of least resistance. Current Biology, 34(20), 4813-4823.
 
 #### Time-series and models
 
