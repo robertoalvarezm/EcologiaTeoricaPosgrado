@@ -26,6 +26,8 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 - Hagstrom, G. I., & Levin, S. A. (2023). Phase transitions and the theory of early warning indicators for critical transitions. In How worlds collapse (pp. 358-374). Routledge.
 - Deng, J., Cordero, O. X., Fukami, T., Levin, S. A., Pringle, R. M., Solé, R., & Saavedra, S. (2024). The development of ecological systems along paths of least resistance. Current Biology, 34(20), 4813-4823.
 - Orr, J. A., Piggott, J. J., Jackson, A. L., Jackson, M. C., & Arnoldi, J. F. (2024). Variability of functional and biodiversity responses to perturbations is predictable and informative. Nature Communications, 15(1), 10352.
+- Kunze, C., Bahlburg, D., Urrutia‐Cordero, P., Striebel, M., Kelpsiene, E., Langenheder, S., ... & Hillebrand, H. (2024). Partitioning species contributions to ecological stability in disturbed communities. Ecological Monographs, e1636.
+  
 
 #### Time-series and models
 
