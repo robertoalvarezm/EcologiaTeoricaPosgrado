@@ -29,6 +29,7 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 - Kunze, C., Bahlburg, D., Urrutia‐Cordero, P., Striebel, M., Kelpsiene, E., Langenheder, S., ... & Hillebrand, H. (2024). Partitioning species contributions to ecological stability in disturbed communities. Ecological Monographs, e1636.
 - Chang, C. Y., Bajić, D., Vila, J. C., Estrela, S., & Sanchez, A. (2023). Emergent coexistence in multispecies microbial communities. Science, 381(6655), 343-348.
 - Gibbs, T. L., Gellner, G., Levin, S. A., McCann, K. S., Hastings, A., & Levine, J. M. (2024). When can higher‐order interactions produce stable coexistence?. Ecology Letters, 27(6), e14458.
+- Baichman-Kass, A., Song, T., & Friedman, J. (2023). Competitive interactions between culturable bacteria are highly non-additive. Elife, 12, e83398.
   
 
 #### Time-series and models
