@@ -30,6 +30,9 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 - Chang, C. Y., Bajić, D., Vila, J. C., Estrela, S., & Sanchez, A. (2023). Emergent coexistence in multispecies microbial communities. Science, 381(6655), 343-348.
 - Gibbs, T. L., Gellner, G., Levin, S. A., McCann, K. S., Hastings, A., & Levine, J. M. (2024). When can higher‐order interactions produce stable coexistence?. Ecology Letters, 27(6), e14458.
 - Baichman-Kass, A., Song, T., & Friedman, J. (2023). Competitive interactions between culturable bacteria are highly non-additive. Elife, 12, e83398.
+- Srinivasan, S., Jnana, A., & Murali, T. S. (2024). Modeling Microbial Community Networks: Methods and Tools for Studying Microbial Interactions. Microbial Ecology, 87(1), 56.
+- Meroz, N., Livny, T., & Friedman, J. (2024). Quantifying microbial interactions: concepts, caveats, and applications. Current Opinion in Microbiology, 80, 102511.
+- 
   
 
 #### Time-series and models
