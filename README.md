@@ -19,6 +19,7 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 
 ### Indispensables por leer
 
+- Hu, J., Barbier, M., Bunin, G., & Gore, J. (2025). Collective dynamical regimes predict invasion success and impacts in microbial communities. Nature Ecology & Evolution, 1-11.
 - Diaz-Colunga, J., Skwara, A., Vila, J. C., Bajic, D., & Sanchez, A. (2024). Global epistasis and the emergence of function in microbial consortia. Cell, 187(12), 3108-3119.
 - Evers, K., Borsboom, D., Fried, E. I., Hasselman, F., & Waldorp, L. (2024). Early warning signals of complex critical transitions in deterministic dynamics. Nonlinear Dynamics, 112(21), 19071-19094.
 - Dylewsky, D., Lenton, T. M., Scheffer, M., Bury, T. M., Fletcher, C. G., Anand, M., & Bauch, C. T. (2023). Universal early warning signals of phase transitions in climate systems. Journal of the Royal Society Interface, 20(201), 20220562.
