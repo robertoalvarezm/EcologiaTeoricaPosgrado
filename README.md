@@ -36,6 +36,7 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 - Blake, C., Barber, J. N., Connallon, T., & McDonald, M. J. (2024). Evolutionary shift of a tipping point can precipitate, or forestall, collapse in a microbial community. Nature Ecology & Evolution, 8(12), 2325-2335.
 - Gallardo-Navarro, O., Aguilar-Salinas, B., Rocha, J., & Olmedo-Álvarez, G. (2024). Higher-order interactions and emergent properties of microbial communities: The power of synthetic ecology. Heliyon, 10(14).
 - Lopes, W., Amor, D. R., & Gore, J. (2024). Cooperative growth in microbial communities is a driver of multistability. Nature Communications, 15(1), 4709.
+- Matthieu—Bios, B. A taxonomy of multiple stable states in complex ecological communities.
   
 
 #### Time-series and models
