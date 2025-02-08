@@ -34,6 +34,7 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 - Srinivasan, S., Jnana, A., & Murali, T. S. (2024). Modeling Microbial Community Networks: Methods and Tools for Studying Microbial Interactions. Microbial Ecology, 87(1), 56.
 - Meroz, N., Livny, T., & Friedman, J. (2024). Quantifying microbial interactions: concepts, caveats, and applications. Current Opinion in Microbiology, 80, 102511.
 - Blake, C., Barber, J. N., Connallon, T., & McDonald, M. J. (2024). Evolutionary shift of a tipping point can precipitate, or forestall, collapse in a microbial community. Nature Ecology & Evolution, 8(12), 2325-2335.
+- Gallardo-Navarro, O., Aguilar-Salinas, B., Rocha, J., & Olmedo-Álvarez, G. (2024). Higher-order interactions and emergent properties of microbial communities: The power of synthetic ecology. Heliyon, 10(14).
   
 
 #### Time-series and models
