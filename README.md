@@ -15,6 +15,7 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 - Scheffer, M. (2020). Critical transitions in nature and society (Vol. 16). Princeton University Press.
 - Bak, P. (2013). How nature works: the science of self-organized criticality. Springer Science & Business Media.
 - Stevens, M. H. H. (2009). A Primer of Ecology with R. New York: Springer.
+- McPeek, M. A. (2022). Coexistence in ecology: a mechanistic perspective (Vol. 66). Princeton University Press.
 ### Artículos
 
 ### Indispensables por leer
