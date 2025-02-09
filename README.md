@@ -45,7 +45,7 @@ Notas, lecturas para un curso de Ecología Teórica a nivel posgrado
 - [Theoretical Community Ecology by  Stefano Allesina](https://stefanoallesina.github.io/Theoretical_Community_Ecology/)
 - [Community Ecology from Patterns to Principles](https://www.ictp-saifr.org/community-ecology-from-patterns-to-principles/)
 - [Introduction to Bifurcation Analysis](http://www.bio.vu.nl/thb/research/project/globif/Globif_text.pdf).  van Voorn, G. A. K. (2006). PhD mini course: Introduction to bifurcation analysis. Dept Theor. Biology, Vrije Universiteit de Boelelaan, Amsterdam,cit. 2016-05-12.
--Chen, X., Crocker, K., Kuehn, S., Walczak, A. M., & Mora, T. (2025). Inferring resource competition in microbial communities from time series. arXiv preprint arXiv:2501.04520.
+-  Chen, X., Crocker, K., Kuehn, S., Walczak, A. M., & Mora, T. (2025). Inferring resource competition in microbial communities from time series. arXiv preprint arXiv:2501.04520.
 - Lana Descheemaeker Sophie de Buyl (2020) Stochastic logistic models reproduce experimental time series of microbial communities eLife 9:e55650.https://doi.org/10.7554/eLife.55650
 - Skwara, A., Gowda, K., Yousef, M., Diaz-Colunga, J., Raman, A. S., Sanchez, A., ... & Kuehn, S. (2023). Learning the functional landscape of microbial communities. bioRxiv, 2023-03.
 - Barbier, M., Arnoldi, J. F., Bunin, G., & Loreau, M. (2018). Generic assembly patterns in complex ecological communities. Proceedings of the National Academy of Sciences, 115(9), 2156-2161.
